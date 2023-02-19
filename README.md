@@ -1,5 +1,5 @@
 # 💫 About Me:
-😄 Pronouns: He/Him<br>🔭 I’m Currently Preparing For Internships.<br>🤔 Working at CSE Student in JECRC, Jaipur.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/hemant-kumar-garg-43061220b/<br>😄 Pronouns: He/His<br>⚡ Fun fact: State Level Basketball and kabaddi player.
+😄 Pronouns: He/Him<br>🔭 I’m Currently Preparing For Internships.<br>🤔 Working at CSE Student in JECRC, Jaipur.<br>💬 Ask me about Good First Issues & Exciting projects to work on.<br>📫 How to reach me: https://www.linkedin.com/in/hemant-kumar-garg-43061220b/<br>⚡ Fun fact: State Level Basketball and kabaddi player.
 
 
 ## 🌐 Socials:
