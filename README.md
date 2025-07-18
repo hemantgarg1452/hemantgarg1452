@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@hemantgarg1452" target="blank"><img src="https://img.shields.io/twitter/follow/@hemantgarg1452?logo=twitter&style=for-the-badge" alt="@hemantgarg1452" /></a> </p>
 
-- 🌱 I’m currently learning **Microservices and Cloud**
-
 - 🤝 I’m looking for help with **Java Dev. and how to excel in Competitive Programming**
 
 - 💬 Ask me about **anything and everything!**
