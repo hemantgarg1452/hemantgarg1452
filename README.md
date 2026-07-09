@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
-- 🌱 I’m currently learning **System Design**
+- 🌱 I’m currently learning **AI** and **System Design**
 
-- 👯 I’m looking to collaborate on **Java / Spring Boot / Microservices based backend projects**
-
-- 🤝 I’m looking for help with **System Design, Scalability & Cloud Deployment (AWS)**
+- 👯 I’m looking to collaborate on **Java / Spring Boot / Microservices / DevOps based backend projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hemantgarg1452](https://github.com/hemantgarg1452)
 
